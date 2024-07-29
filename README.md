@@ -7,7 +7,7 @@
 - Improve Predictive Accuracy: Develop and refine predictive models to accurately estimate a student’s chance of admission based on the identified factors.
 ## Dataset Information:
 ### Source:
-Please check the dataset at: "[Dataset Link](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/839/original/Jamboree_Admission.csv)"
+- Please check the dataset at: "[Dataset Link](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/839/original/Jamboree_Admission.csv)"
   
 ### Feature Information:
 - Serial No. (Unique row ID)
@@ -18,3 +18,43 @@ Please check the dataset at: "[Dataset Link](https://d2beiqkhq929f0.cloudfront.n
 - Undergraduate GPA(CGPA) (out of 10)
 - Research Experience (either 0 or 1)
 - Chance of Admit (ranging from 0 to 1)
+
+# Key Highlights:
+## Exploratory Data Analysis (EDA)
+- Observations
+- Data Shape and Types
+- Missing Values
+- Statistical Summary
+- Univariate Analysis
+- Bivariate Analysis
+- Duplicate Value Check:
+- Outlier Treatment:
+## Feature Engineering
+## Data Preparation for Modeling
+## Model Building
+- Linear Regression
+- Ridge and Lasso Regression
+
+## Testing Assumptions of Linear Regression:
+### 1. Multicollinearity Check
+  - Calculate the Variance Inflation Factor (VIF) and iteratively drop variables with VIF > 5.
+### 2.Mean of Residuals
+  - Ensure that the mean of residuals is close to zero.
+### 3.Linearity of Variables
+  - Check for patterns in the residual plot to confirm linearity.
+### 4.Homoscedasticity Test
+  - Verify that the residuals exhibit constant variance.
+### 5.Normality of Residuals
+  - Assess if the residuals follow a normal distribution using Q-Q plots and distribution plots.
+    
+## Model Performance Evaluation:
+### 1.Performance Metrics
+  - Evaluate model performance using metrics such as MAE, RMSE, R^2, and Adjusted R^2.
+### 2.Train and Test Performance
+  - Compare performance on training and testing datasets.
+### 3.Significance of Predictor Variables
+  - Highlight the most significant predictors
+### Model Improvement
+  - Discuss potential improvements based on performance metrics.
+### Actionable Insights & Recommendations
+
