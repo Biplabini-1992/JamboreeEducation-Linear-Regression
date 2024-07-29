@@ -36,27 +36,27 @@
 - Ridge and Lasso Regression
 
 ## Testing Assumptions of Linear Regression:
-### 1. Multicollinearity Check
+#### 1. Multicollinearity Check
   - Calculate the Variance Inflation Factor (VIF) and iteratively drop variables with VIF > 5.
-### 2.Mean of Residuals
+#### 2.Mean of Residuals
   - Ensure that the mean of residuals is close to zero.
-### 3.Linearity of Variables
+#### 3.Linearity of Variables
   - Check for patterns in the residual plot to confirm linearity.
-### 4.Homoscedasticity Test
+#### 4.Homoscedasticity Test
   - Verify that the residuals exhibit constant variance.
-### 5.Normality of Residuals
+#### 5.Normality of Residuals
   - Assess if the residuals follow a normal distribution using Q-Q plots and distribution plots.
     
 ## Model Performance Evaluation:
-### Performance Metrics
+#### Performance Metrics
   - Evaluate model performance using metrics such as MAE, RMSE, R^2, and Adjusted R^2.
-### Train and Test Performance
+#### Train and Test Performance
   - Compare performance on training and testing datasets.
 ## Insights:
-### Significance of Predictor Variables
+#### Significance of Predictor Variables
   - Highlight the most significant predictors
-### Model Improvement
+#### Model Improvement
   - Discuss potential improvements based on performance metrics.
-### Recommendations:
+## Recommendations:
 - Actionable items for implementation of the model in real-world scenarios and the potential business benefits.
 
