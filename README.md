@@ -7,14 +7,14 @@
 - Improve Predictive Accuracy: Develop and refine predictive models to accurately estimate a student’s chance of admission based on the identified factors.
 ## Dataset Information:
   ### Source:
-    Please check the dataset at: "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/839/original/Jamboree_Admission.csv"
+    Please check the dataset at: "[Dataset Link]https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/839/original/Jamboree_Admission.csv"
   
   ### Feature Information:
-    - **Serial No. (Unique row ID)**
-    - **GRE Scores (out of 340)**
-    - **TOEFL Scores (out of 120)**
-    - **University Rating (out of 5)**
-    - **Statement of Purpose and Letter of Recommendation Strength (out of 5)**
-    - **Undergraduate GPA(CGPA) (out of 10)**
-    - **Research Experience (either 0 or 1)**
-    - **Chance of Admit (ranging from 0 to 1)**
+    - Serial No. (Unique row ID)
+    - GRE Scores (out of 340)
+    - TOEFL Scores (out of 120)
+    - University Rating (out of 5)
+    - Statement of Purpose and Letter of Recommendation Strength (out of 5)
+    - Undergraduate GPA(CGPA) (out of 10)
+    - Research Experience (either 0 or 1)
+    - Chance of Admit (ranging from 0 to 1)
