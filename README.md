@@ -48,13 +48,15 @@
   - Assess if the residuals follow a normal distribution using Q-Q plots and distribution plots.
     
 ## Model Performance Evaluation:
-### 1.Performance Metrics
+### Performance Metrics
   - Evaluate model performance using metrics such as MAE, RMSE, R^2, and Adjusted R^2.
-### 2.Train and Test Performance
+### Train and Test Performance
   - Compare performance on training and testing datasets.
-### 3.Significance of Predictor Variables
+## Insights:
+### Significance of Predictor Variables
   - Highlight the most significant predictors
 ### Model Improvement
   - Discuss potential improvements based on performance metrics.
-### Actionable Insights & Recommendations:
+### Recommendations:
+- Actionable items for implementation of the model in real-world scenarios and the potential business benefits.
 
