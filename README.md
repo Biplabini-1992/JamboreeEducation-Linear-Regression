@@ -1,4 +1,4 @@
-# Jamboree-Education-Linear-Regression
+# JamboreeEducation-Linear-Regression
 - Jamboree is a renowned education consultancy that has assisted thousands of students in achieving their dreams of studying at top colleges abroad. Specializing in test preparation for GMAT, GRE, and SAT, Jamboree's unique problem-solving methods ensure that students attain maximum scores with minimal effort.
 - Recently, Jamboree launched an innovative feature on their website that allows students to check their probability of gaining admission to Ivy League colleges. This feature, tailored specifically for students from India, offers personalized insights into their chances of securing a spot in prestigious graduate programs, further solidifying Jamboree's commitment to supporting students in their academic journeys.
 ## Objective:
